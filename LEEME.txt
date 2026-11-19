@@ -1,0 +1,18 @@
+PIBE Hub TI - versión en página web (se actualiza sola)
+
+PUBLICAR (la forma más fácil, gratis):
+ 1. Entra a https://app.netlify.com/drop
+ 2. Arrastra esta carpeta completa (pibe_hub_web). Te da un enlace https.
+ 3. Comparte ese enlace con tu equipo.
+
+ACTUALIZAR: arrastra de nuevo la carpeta con los archivos cambiados (en Netlify: Deploys > "Drag and drop").
+Quien abra el enlace verá siempre la versión más reciente; no hay que instalar nada.
+
+INSTALAR COMO PROGRAMA (opcional): en Chrome/Edge, botón "Instalar como programa" en el inicio
+(o el ícono de instalar en la barra de direcciones). Queda con ícono propio y ventana propia.
+
+IMPORTANTE
+ - Los datos se guardan en el navegador de cada persona (no se comparten entre equipos). Usa "Respaldo global (.json)".
+ - Cualquiera con el enlace puede abrir la página. Cambia la contraseña del admin al entrar por primera vez
+   y no pongas datos reales en los archivos. Para restringir el acceso, usa Cloudflare Access o la protección con contraseña de Netlify.
+ - Los estilos e íconos requieren internet.
